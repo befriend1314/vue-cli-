@@ -27,4 +27,6 @@ npm run e2e
 npm test
 ```
 
+![image](https://github.com/769970587@qq.com/vue-cli-daily/1.png)
+
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
